@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "6abd753ddbc2ce5eea19519c"
+  },
+  "modelo": "Corolla",
+  "anio": 2023,
+  "precio": 24000,
+  "marca": {
+    "$oid": "6abd74c2dbc2ce5eea19519a"
+  },
+  "__v": 0
+}]
